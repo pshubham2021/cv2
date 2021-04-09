@@ -1,0 +1,36 @@
+* {
+  color: maroon;
+}
+
+img {
+  border-radius: 50%;
+}
+
+body {
+  background-color: rgb(238, 198, 149);
+}
+
+hr:hover {
+  border-color: crimson;
+}
+hr {
+  border-color: rgb(148, 114, 21);
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1:hover,
+h3:hover {
+  color: red;
+}
+
+h1,
+h3 {
+  color: brown;
+}
+
+p {
+  color: rgb(23, 13, 116);
+}
